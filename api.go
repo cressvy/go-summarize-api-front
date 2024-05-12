@@ -15,7 +15,7 @@ import (
 )
 
 func init() {
-	err := license.SetMeteredKey("2b50d7321b05e40e535c3e8069b06c88be7eac418b6e8e7584abfa11382eda2f")
+	err := license.SetMeteredKey("fuck you")
 	if err != nil {
 		panic(err)
 	}
