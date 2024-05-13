@@ -83,7 +83,7 @@ func main() {
 
 		}
 
-		client := openai.NewClient("sk-proj-TecKHczjbuyM8ykQp8mvT3BlbkFJeeJpIOirRlJzb2YewbeD")
+		client := openai.NewClient("fuck you")
 		resp, err := client.CreateChatCompletion(
 			c,
 			openai.ChatCompletionRequest{
